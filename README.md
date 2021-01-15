@@ -3,14 +3,15 @@
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
+<b>Discipline | <b>Pysicsal Sciences
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Lab | <b> Basics of Physics
+<b> Experiment|     <b> 4.  : Measurement of Numerical Aperture of Optical Fiber
 
 <h5> About the Experiment : </h5> <br>
+The maximum angle within which light will be accepted into and guided through optical fiber is<br>
 
-Type here: berif description of this experiment
+ 
 
 <b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
 :--|:--|
