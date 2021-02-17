@@ -10,5 +10,5 @@ D     = the diameter of the spot on the screen <br>
 L     = the distance between the output end of the fiber and the screen.<br><br>
 
  If the incident angle α < α<sub>max</sub>, the ray undergoes multiple internal reflections at core and cladding interface and it is called the guided ray. If α < α<sub>max</sub>, the ray undergoes only partial reflection at core cladding interface. In short length of straight fiber, ideally a ray launched at angle α at the input end should come out at the same angle α from output end. Therefore, the far field at the output end will also
-appear as a cone of semi angle αmax emanating from the fiber end.
+appear as a cone of semi angle αmax emanating from the fiber end
  
