@@ -103,9 +103,9 @@ const myQuestions = [
   {
     question: "For the light to propagate in optical fiber the correct relation between angle of incidence and the half acceptance angle is:",  ///// Write the question inside double quotes
     answers: {
-      a: "&Alpha; < &Alpha;<sub>max</sub>",                  ///// Write the option 1 inside double quotes
-      b: "&Alpha; > &Alpha;<sub>max</sub>",                  ///// Write the option 2 inside double quotes
-      c: "&Alpha; = &Alpha;<sub>max</sub>",                  ///// Write the option 3 inside double quotes
+      a: "&alpha; < &alpha;<sub>max</sub>",                  ///// Write the option 1 inside double quotes
+      b: "&alpha; > &alpha;<sub>max</sub>",                  ///// Write the option 2 inside double quotes
+      c: "&alpha; = &alpha;<sub>max</sub>",                  ///// Write the option 3 inside double quotes
       d: "none of these"                   ///// Write the option 4 inside double quotes
     },
     correctAnswer: "a"                ///// Write the correct option inside double quotes
