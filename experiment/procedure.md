@@ -1,7 +1,7 @@
 1.	Click on “Emitter” button.<br>
 2.	Click on “Fiber Stand”<br>
 3.	Click on “Fiber Cable”<br>
-4.	Click on “Out put Screen”<br>
+4.	Click on “Output Screen”<br>
 5.	Click the “Start Button”<br>
 6.	Select Fiber cable/Glass cable<br>
 7.	Drag the slider to set distance of screen in mm.<br>
