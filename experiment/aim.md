@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To Measure Numerical aperture and attenuation constant of optical fibre

@@ -1,1 +1,1 @@
-## Experiment name
+## Measurement of Numerical aperture and attenuation constant of optical fibre

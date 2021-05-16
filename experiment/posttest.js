@@ -89,23 +89,47 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1.The value of Numerical aperture of the single mode step index optical fiber is nearly:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "0.2", ///// Write the option 1 inside double quotes
+                b: "2.0", ///// Write the option 2 inside double quotes
+                c: "20", ///// Write the option 2 inside double quotes
+                d: "200", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "Diameter of the spot on the screen -------------- as the distance between the outlet of the optical fiber and the screen increases",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "Increases",                  ///// Write the option 1 inside double quotes
+        b: "decreases",                  ///// Write the option 2 inside double quotes
+        c: "remains constant",
+        d: "none of these",
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
-
+   
+    {
+      question: "As the difference between the refractive indices of the core and cladding of Optical fibre increases the Numerical Aperture:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Increases",                  ///// Write the option 1 inside double quotes
+        b: "decreases",                  ///// Write the option 2 inside double quotes
+        c: "remains constant",
+        d: "none of these",
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },
+      {
+      question: "If any signal falls on the inlet of the optical fiber at an angle outside the acceptance cone then the signal:",  ///// Write the question inside double quotes
+      answers: {
+        a: "Cannot enter into the optical fiber",                  ///// Write the option 1 inside double quotes
+        b: "Can enter but cannot propagate through the fiber",                  ///// Write the option 2 inside double quotes
+        c: "Can enter and travel through the cladding of the optical Fiber", 
+        d: "none of these",
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
 
         
     ];
