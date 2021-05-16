@@ -16,4 +16,23 @@
 		"d": "none of these"
 	},
 	"correctAnswer": "a"
+},
+{
+	"question": "The Numerical Aperture depends on:",
+	"answers": {
+		"a": "Material of Core",
+		"b": "Material of Cladding",
+		"c": "Outer medium(air)",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+},{
+	"question": "Propagation of the signal in optical fibre is based on:",
+	"answers": {
+		"a": "Total Internal Reflection",
+		"b": "Reflection",
+		"c": "Diffraction",
+		"d": "Scattering"
+	},
+	"correctAnswer": "a"
 }]
