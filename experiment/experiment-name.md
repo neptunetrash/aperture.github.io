@@ -1,1 +1,1 @@
-## Measurement of Numerical aperture and attenuation constant of optical fibre
+## Measurement of Numerical aperture of optical fibre
