@@ -1,0 +1,38 @@
+[{
+	"question": "1. The core of the optical fiber is having ------------------ refractive index as compared to cladding:",
+	"answers": {
+		"a": "greater",
+		"b": "smaller",
+		"c": "same",
+		"d": "NOT"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. For the light to propagate in optical fiber the correct relation between angle of incidence and the half acceptance angle is:",
+	"answers": {
+		"a": "&alpha; < &alpha;<sub>max</sub>",
+		"b": "&alpha; > &alpha;<sub>max</sub>",
+		"c": "&alpha; = &alpha;<sub>max</sub>",
+		"d": "none of these"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "3. The Numerical Aperture depends on:",
+	"answers": {
+		"a": "Material of Core",
+		"b": "Material of Cladding",
+		"c": "Outer medium(air)",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+},{
+	"question": "4. Propagation of the signal in optical fibre is based on:",
+	"answers": {
+		"a": "Total Internal Reflection",
+		"b": "Reflection",
+		"c": "Diffraction",
+		"d": "Scattering"
+	},
+	"correctAnswer": "a"
+}]
