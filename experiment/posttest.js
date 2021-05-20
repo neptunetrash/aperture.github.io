@@ -100,7 +100,7 @@
         },
 
     {
-      question: "Diameter of the spot on the screen -------------- as the distance between the outlet of the optical fiber and the screen increases",  ///// Write the question inside double quotes
+      question: "2. Diameter of the spot on the screen -------------- as the distance between the outlet of the optical fiber and the screen increases",  ///// Write the question inside double quotes
       answers: {
         a: "Increases",                  ///// Write the option 1 inside double quotes
         b: "decreases",                  ///// Write the option 2 inside double quotes
@@ -111,7 +111,7 @@
     },
    
     {
-      question: "As the difference between the refractive indices of the core and cladding of Optical fibre increases the Numerical Aperture:",  ///// Write the question inside double quotes
+      question: "3. As the difference between the refractive indices of the core and cladding of Optical fibre increases the Numerical Aperture:",  ///// Write the question inside double quotes
       answers: {
         a: "Increases",                  ///// Write the option 1 inside double quotes
         b: "decreases",                  ///// Write the option 2 inside double quotes
@@ -121,7 +121,7 @@
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
       {
-      question: "If any signal falls on the inlet of the optical fiber at an angle outside the acceptance cone then the signal:",  ///// Write the question inside double quotes
+      question: "4. If any signal falls on the inlet of the optical fiber at an angle outside the acceptance cone then the signal:",  ///// Write the question inside double quotes
       answers: {
         a: "Cannot enter into the optical fiber",                  ///// Write the option 1 inside double quotes
         b: "Can enter but cannot propagate through the fiber",                  ///// Write the option 2 inside double quotes
