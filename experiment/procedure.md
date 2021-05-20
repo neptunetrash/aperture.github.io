@@ -11,3 +11,4 @@
 11.	Click on “Draw Graph” button<br>
 12.	Enter the standard value of numerical aperture in the “Final Numeric Aperture” box.<br>
 13.	Click on “verify” button to find the percentage error.<br>
+
