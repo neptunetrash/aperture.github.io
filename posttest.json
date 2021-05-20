@@ -1,0 +1,39 @@
+[{
+	"question": "1. The value of Numerical aperture of the single mode step index optical fiber is nearly:",
+	"answers": {
+		"a": "0.2",
+		"b": "2.0",
+		"c": "20",
+		"d": "200"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. Diameter of the spot on the screen -------------- as the distance between the outlet of the optical fiber and the screen increases.",
+	"answers": {
+		"a": "Increases",
+		"b": "Decreases",
+		"c": "Remains constant",
+		"d": "none of these"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "3. As the difference between the refractive indices of the core and cladding of Optical fibre increases the Numerical Aperture:",
+	"answers": {
+		"a": "Increases",
+		"b": "Decreases",
+		"c": "Remains constant",
+		"d": "none of these"
+	},
+	"correctAnswer": "a"
+},
+{
+	"question": "4. If any signal falls on the inlet of the optical fiber at an angle outside the acceptance cone then the signal:",
+	"answers": {
+		"a": "Cannot enter into the optical fiber",
+		"b": "Can enter but cannot propagate through the fiber",
+		"c": "Can enter and travel through the cladding of the optical Fiber",
+		"d": "none of these"
+	},
+	"correctAnswer": "b"
+}]
