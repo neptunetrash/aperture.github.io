@@ -1,5 +1,5 @@
 [{
-	"question": "The core of the optical fiber is having ------------------ refractive index as compared to cladding:",
+	"question": "1. The core of the optical fiber is having ------------------ refractive index as compared to cladding:",
 	"answers": {
 		"a": "greater",
 		"b": "smaller",
@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "For the light to propagate in optical fiber the correct relation between angle of incidence and the half acceptance angle is:",
+	"question": "2. For the light to propagate in optical fiber the correct relation between angle of incidence and the half acceptance angle is:",
 	"answers": {
 		"a": "&alpha; < &alpha;<sub>max</sub>",
 		"b": "&alpha; > &alpha;<sub>max</sub>",
@@ -18,7 +18,7 @@
 	"correctAnswer": "a"
 },
 {
-	"question": "The Numerical Aperture depends on:",
+	"question": "3. The Numerical Aperture depends on:",
 	"answers": {
 		"a": "Material of Core",
 		"b": "Material of Cladding",
@@ -27,7 +27,7 @@
 	},
 	"correctAnswer": "d"
 },{
-	"question": "Propagation of the signal in optical fibre is based on:",
+	"question": "4. Propagation of the signal in optical fibre is based on:",
 	"answers": {
 		"a": "Total Internal Reflection",
 		"b": "Reflection",
