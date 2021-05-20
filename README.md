@@ -5,7 +5,7 @@
 <b>Discipline | <b>Pysicsal Sciences
 :--|:--|
 <b> Lab | <b> Basics of Physics
-<b> Experiment|     <b> 4.Measurement of Numerical Aperture of Optical Fiber
+<b> Experiment|     <b> 10.Measurement of Numerical Aperture of Optical Fiber
 
 <h5> About the Experiment : </h5> <br>
 The maximum angle within which light will be accepted into and guided through optical fiber is<br>
